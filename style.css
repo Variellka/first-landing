@@ -44,6 +44,7 @@ body {
     padding: 0;
 }
 .header-text {
+    padding-top: 30px;
     margin-bottom: 80px;
 }
 .block-header {
@@ -57,6 +58,8 @@ h2 {
     text-transform: uppercase;
     font-weight: 400;
     margin: 0;
+    line-height: 36px;
+    height: 55px;
 }
 p {
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
@@ -107,7 +110,6 @@ i {
     display: flex;
     flex-direction;
     margin: 0 -20px;
-    padding-bottom: 95px;
     align-items: flex-end;
 }
 .pricing-slot {
@@ -129,7 +131,6 @@ i {
     box-sizing: border-box;
     line-height: 20px;
 }
-
 .price-cost {
     font-family: 'Raleway', Arial, Helvetica, sans-serif;
     font-size: 94px;
