@@ -421,21 +421,21 @@ header {
 .menu {
     margin: auto 0 auto auto;
 }
-ul {
+.menu ul {
     margin: 0;
     padding: 0;
     list-style-type: none;
     display: flex;
     color: white;
 }
-li {
+.menu li {
     display: inline-block;
     opacity: 0.69;
     padding: 0 23px;
     font-family: 'Open Sans', Arial, Helvetica, sans-serif;
     font-size: 14px;
 }
-li:last-of-type {
+.menu li:last-of-type {
     padding-right: 0px;
 }
 .header-content {
